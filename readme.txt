@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 分支管理策略---测试
 快进模式 --- fast forword
+Git stash modele test
